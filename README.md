@@ -28,12 +28,10 @@ Skills:  REACT / JS / HTML / CSS
 
 
 
-## I added a button in header section if you clicked it, will increase the 
-## numbers of sections if you want to increase the number of section.
+## I added a button in header section if you clicked it, will increase the numbers of sections if you want to increase the number of section.
 
 
-## i added an icon if you want to go to the top of the page it will be to go the header when you
-## scaling 800 px.
+## i added an icon if you want to go to the top of the page it will be to go the header when you scaling 800 px.
 
 
 
